@@ -106,3 +106,20 @@ let arr = dashed.forEach((i) => {
 
 strs
 
+
+
+
+let dashed = strs(s).split(' ');
+dashed;
+
+
+for (let arr of dashed) {
+     let temp
+    temp = arr[0].toUpperCase()
+    arr[0] = temp  
+}
+
+dashed
+
+
+
