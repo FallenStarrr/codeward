@@ -80,3 +80,29 @@ dashed;
 for( let dash of dashed ) {
     console.log(dash)
 }
+   arr2
+  return arr2.join(' ');
+};
+
+let dashed = strs(s).split(' ');
+dashed;
+let capitals = []  
+for( let i = 0; i < dashed.length; i++ ) {
+       
+      capitals.push(dashed[i][0] = dashed[i][0].toUpperCase())
+       
+}
+capitals
+dashed
+
+
+let strs = []
+
+
+let arr = dashed.forEach((i) => {
+       strs.push(i.replace(i, i.toUpperCase()))
+})
+
+
+strs
+
